@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenamirza1&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<img align="right" width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleenamirza1&theme=tokyonight"/>
 
 ### 🧬 &nbsp;About Me
 
